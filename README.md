@@ -1,1 +1,1 @@
-##JDBC SQLite és CSV kezelő##
+# JDBC SQLite és CSV kezelő
